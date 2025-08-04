@@ -12,14 +12,21 @@
 
 <div align="center">
 
-  <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" style="text-decoration:none;">
-    <b>Hoaxshell_Digispark_Attiny85</b>
-  </a>
-  <br>
-  <span>Scripts and resources to create a reverse shell using Hoaxshell and Digispark ATtiny85.</span>
-  
-  <br><br>
-
+  <table>
+    <tr>
+      <td>
+        <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" target="_blank" style="text-decoration:none;">
+          <div style="border:1px solid #eaeaea;border-radius:10px;padding:16px;width:230px;display:inline-block;vertical-align:top;margin:8px;background:#f7faff;">
+            <h3 align="center" style="margin:0;">Hoaxshell Digispark ATtiny85</h3>
+            <p align="center" style="color:#444;font-size:13px;">
+              Scripts and resources to create a reverse shell using Hoaxshell and Digispark ATtiny85.
+            </p>
+          </div>
+        </a>
+      </td>
+      <!-- Puedes copiar y pegar más <td>...</td> aquí para más repos -->
+    </tr>
+  </table>
 </div>
 
 
