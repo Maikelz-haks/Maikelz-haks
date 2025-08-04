@@ -17,4 +17,4 @@
 <!-- About Me Section -->
 <h2 align="center">About Me</h2>
 
-- In my repositories you will find my tools, scripts, and resources for cybersecurity, ethical hacking, and programming.
+> In my repositories you will find my tools, scripts, and resources for cybersecurity, ethical hacking, and programming.
