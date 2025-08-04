@@ -21,7 +21,7 @@
       <h4>🔒 HOAXSHELL X ATTINY 85</h4>
       <p><em>Reverse Shell with ATtiny85</em></p>
       <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Proyecto-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
