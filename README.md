@@ -7,32 +7,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">📁 GitHub Pages</h3>
+<h3 align="center"> GitHub Pages</h3>
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" target="_blank" style="text-decoration:none;">
-          <div style="border:1px solid #eaeaea;border-radius:10px;padding:16px;width:230px;display:inline-block;vertical-align:top;margin:8px;background:#f7faff;">
-            <h3 align="center" style="margin:0;">Hoaxshell Digispark ATtiny85</h3>
-            <p align="center" style="color:#444;font-size:13px;">
-              Scripts and resources to create a reverse shell using Hoaxshell and Digispark ATtiny85.
-            </p>
-          </div>
-        </a>
-      </td>
-      <!-- Puedes copiar y pegar más <td>...</td> aquí para más repos -->
-    </tr>
-  </table>
+<div style="max-width: 800px; margin: 20px auto;">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
+              border-radius: 15px; 
+              padding: 20px; 
+              margin: 15px; 
+              box-shadow: 0 8px 32px rgba(0,0,0,0.1); 
+              border: 1px solid rgba(255,255,255,0.1);
+              transition: all 0.3s ease;
+              cursor: pointer;"
+       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 15px 35px rgba(0,0,0,0.2)'"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 32px rgba(0,0,0,0.1)'"
+       onclick="window.open('https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/', '_blank')">
+  
+  </div>
 </div>
 
-
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- About Me Section -->
-<h2 align="center">About Me</h2>
-
-> In my repositories you will find my tools, scripts, and resources for cybersecurity, ethical hacking, and programming.
