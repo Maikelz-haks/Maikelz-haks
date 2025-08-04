@@ -1,16 +1,20 @@
-## Hi there 👋
+<h3 align="center"> 
+  <img src="https://avatars.githubusercontent.com/u/85068672?v=4" height="150"/>
+</h3>
 
-<!--
-**Maikelz-haks/Maikelz-haks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Welcome</h1>  
+<h3 align="center"> 👨‍💻 Developer | 💻 Computer Engineer | 🐞 Pentester </h3>
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- About Me Section -->
+<h2 align="center">About Me</h2>
+
+- In my repositories you will find my tools, scripts, and resources for cybersecurity, ethical hacking, and programming.
