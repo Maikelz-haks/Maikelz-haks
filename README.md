@@ -18,7 +18,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hoaxshell_Digispark_Attiny85&theme=dark&hide_border=true" alt="Hoaxshell ATtiny85"/>
       </a>
       <br>
-      <h4>🔒 HOAXSHELL X ATTINY 85</h4>
       <p><em>Reverse Shell with ATtiny85</em></p>
       <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" target="_blank">
         <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
