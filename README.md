@@ -9,12 +9,17 @@
 
 <br>
 <br>
-## 📁 Repositories
+<h2 align="center">📁 Repositories</h2>
 
-- [![Hoaxshell Digispark ATtiny85](https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/img/demo.gif)](https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/)  
-  **Hoaxshell_Digispark_Attiny85**  
-  Scripts and resources to create a reverse shell using Hoaxshell and Digispark ATtiny85.
+<div align="center">
 
+  <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" style="text-decoration:none;">
+    <img src="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/img/demo.gif" alt="Hoaxshell Digispark ATtiny85" width="180"/><br>
+    <b>Hoaxshell_Digispark_Attiny85</b>
+  </a>
+  <br>
+  <span>Scripts and resources to create a reverse shell using Hoaxshell and Digispark ATtiny85.</span>
+  
 <br>
 <br>
 
