@@ -8,20 +8,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
-<br>
 <h2 align="center">📁 Repositories</h2>
 
 <div align="center">
 
   <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" style="text-decoration:none;">
-    <img src="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/img/demo.gif" alt="Hoaxshell Digispark ATtiny85" width="180"/><br>
     <b>Hoaxshell_Digispark_Attiny85</b>
   </a>
   <br>
   <span>Scripts and resources to create a reverse shell using Hoaxshell and Digispark ATtiny85.</span>
   
-<br>
-<br>
+  <br><br>
+
+</div>
 
 
 
