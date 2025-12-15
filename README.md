@@ -28,7 +28,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hacking-Labs&theme=dark&hide_border=true" alt="Hacking Labs"/>
       </a>
       <br>
-      <p><em>Reverse Shell with ATtiny85</em></p>
+      <p><em>Resolucion de Maquinas</em></p>
       <a href="https://github.com/Maikelz-haks/Hacking-Labs" target="_blank">
         <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
