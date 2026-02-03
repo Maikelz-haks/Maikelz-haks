@@ -17,7 +17,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>🔓 Reverse Shell con ATtiny85</h3>
-      <p><em>Payload de reverse shell implementado en hardware Digispark</em></p>
+      <p><em>Reverse shell implementado en hardware Digispark</em></p>
       <br>
       <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" target="_blank">
         <img src="https://img.shields.io/badge/VER%20PROYECTO-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
