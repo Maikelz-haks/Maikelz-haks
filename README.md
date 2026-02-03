@@ -15,23 +15,48 @@
   <tr>
     <td align="center" width="400">
       <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hoaxshell_Digispark_Attiny85&theme=dark&hide_border=true" alt="Hoaxshell ATtiny85"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hoaxshell_Digispark_Attiny85&theme=radical&hide_border=true&border_radius=10" alt="Hoaxshell ATtiny85"/>
       </a>
+      <br><br>
+      <h3>🔓 Reverse Shell con ATtiny85</h3>
+      <p><em>Payload de reverse shell implementado en hardware Digispark</em></p>
       <br>
-      <p><em>Reverse Shell with ATtiny85</em></p>
       <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ver%20Proyecto-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Hardware-ATtiny85-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Security-Pentesting-red?style=flat-square"/>
     </td>
     <td align="center" width="400">
       <a href="https://github.com/Maikelz-haks/Hacking-Labs" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hacking-Labs&theme=dark&hide_border=true" alt="Hacking Labs"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hacking-Labs&theme=radical&hide_border=true&border_radius=10" alt="Hacking Labs"/>
       </a>
+      <br><br>
+      <h3>🎯 Hacking Labs</h3>
+      <p><em>Write-ups y soluciones de máquinas de CTF</em></p>
       <br>
-      <p><em>Resolucion de Maquinas</em></p>
       <a href="https://github.com/Maikelz-haks/Hacking-Labs" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ver%20Proyecto-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/CTF-Writeups-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Platform-HackTheBox-green?style=flat-square"/>
+    </td>
+    <td align="center" width="400">
+      <a href="https://github.com/Maikelz-haks/Sast-Implementation" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Sast-Implementation&theme=radical&hide_border=true&border_radius=10" alt="SAST Implementation"/>
+      </a>
+      <br><br>
+      <h3>🛡️ Implementación SAST</h3>
+      <p><em>Análisis estático de seguridad en código fuente</em></p>
+      <br>
+      <a href="https://github.com/Maikelz-haks/Sast-Implementation" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Proyecto-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/DevSecOps-SAST-purple?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Code-Analysis-blue?style=flat-square"/>
     </td>
   </tr>
 </table>
