@@ -11,9 +11,11 @@
 
 <div align="center">
 
+## 🚀 Proyectos Destacados
+
 <table>
   <tr>
-    <td align="center" width="400">
+    <td align="center" width="50%">
       <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hoaxshell_Digispark_Attiny85&theme=radical&hide_border=true&border_radius=10" alt="Hoaxshell ATtiny85"/>
       </a>
@@ -22,13 +24,13 @@
       <p><em>Payload de reverse shell implementado en hardware Digispark</em></p>
       <br>
       <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Proyecto-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VER%20PROYECTO-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br><br>
-      <img src="https://img.shields.io/badge/Hardware-ATtiny85-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Security-Pentesting-red?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Hardware-ATtiny85-00D9FF?style=flat-square&labelColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Security-Pentesting-FF6B6B?style=flat-square&labelColor=1a1a1a"/>
     </td>
-    <td align="center" width="400">
+    <td align="center" width="50%">
       <a href="https://github.com/Maikelz-haks/Hacking-Labs" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hacking-Labs&theme=radical&hide_border=true&border_radius=10" alt="Hacking Labs"/>
       </a>
@@ -37,13 +39,15 @@
       <p><em>Write-ups y soluciones de máquinas de CTF</em></p>
       <br>
       <a href="https://github.com/Maikelz-haks/Hacking-Labs" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Proyecto-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VER%20PROYECTO-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br><br>
-      <img src="https://img.shields.io/badge/CTF-Writeups-orange?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Platform-HackTheBox-green?style=flat-square"/>
+      <img src="https://img.shields.io/badge/CTF-Writeups-FF8C00?style=flat-square&labelColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Platform-HackTheBox-9FEF00?style=flat-square&labelColor=1a1a1a"/>
     </td>
-    <td align="center" width="400">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/Maikelz-haks/Sast-Implementation" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Sast-Implementation&theme=radical&hide_border=true&border_radius=10" alt="SAST Implementation"/>
       </a>
@@ -52,11 +56,19 @@
       <p><em>Análisis estático de seguridad en código fuente</em></p>
       <br>
       <a href="https://github.com/Maikelz-haks/Sast-Implementation" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Proyecto-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VER%20PROYECTO-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br><br>
-      <img src="https://img.shields.io/badge/DevSecOps-SAST-purple?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Code-Analysis-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/DevSecOps-SAST-9C27B0?style=flat-square&labelColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Code-Analysis-00D9FF?style=flat-square&labelColor=1a1a1a"/>
+    </td>
+    <td align="center" width="50%">
+      <!-- Espacio para un futuro proyecto -->
+      <br><br>
+      <h3>🚧 Próximamente</h3>
+      <p><em>Nuevo proyecto en desarrollo</em></p>
+      <br><br>
+      <img src="https://img.shields.io/badge/Status-Coming%20Soon-gray?style=for-the-badge&labelColor=1a1a1a"/>
     </td>
   </tr>
 </table>
