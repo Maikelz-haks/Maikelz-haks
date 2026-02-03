@@ -16,8 +16,6 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hoaxshell_Digispark_Attiny85&theme=radical&hide_border=true&border_radius=10" alt="Hoaxshell ATtiny85"/>
-      <br><br>
       <h3>🔓 Reverse Shell con ATtiny85</h3>
       <p><em>Payload de reverse shell implementado en hardware Digispark</em></p>
       <br>
