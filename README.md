@@ -16,9 +16,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hoaxshell_Digispark_Attiny85&theme=radical&hide_border=true&border_radius=10" alt="Hoaxshell ATtiny85"/>
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hoaxshell_Digispark_Attiny85&theme=radical&hide_border=true&border_radius=10" alt="Hoaxshell ATtiny85"/>
       <br><br>
       <h3>🔓 Reverse Shell con ATtiny85</h3>
       <p><em>Payload de reverse shell implementado en hardware Digispark</em></p>
@@ -31,9 +29,7 @@
       <img src="https://img.shields.io/badge/Security-Pentesting-FF6B6B?style=flat-square&labelColor=1a1a1a"/>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Maikelz-haks/Hacking-Labs" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hacking-Labs&theme=radical&hide_border=true&border_radius=10" alt="Hacking Labs"/>
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Hacking-Labs&theme=radical&hide_border=true&border_radius=10" alt="Hacking Labs"/>
       <br><br>
       <h3>🎯 Hacking Labs</h3>
       <p><em>Write-ups y soluciones de máquinas de CTF</em></p>
@@ -48,9 +44,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Maikelz-haks/Sast-Implementation" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Sast-Implementation&theme=radical&hide_border=true&border_radius=10" alt="SAST Implementation"/>
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelz-haks&repo=Sast-Implementation&theme=radical&hide_border=true&border_radius=10" alt="SAST Implementation"/>
       <br><br>
       <h3>🛡️ Implementación SAST</h3>
       <p><em>Análisis estático de seguridad en código fuente</em></p>
@@ -63,7 +57,6 @@
       <img src="https://img.shields.io/badge/Code-Analysis-00D9FF?style=flat-square&labelColor=1a1a1a"/>
     </td>
     <td align="center" width="50%">
-      <!-- Espacio para un futuro proyecto -->
       <br><br>
       <h3>🚧 Próximamente</h3>
       <p><em>Nuevo proyecto en desarrollo</em></p>
