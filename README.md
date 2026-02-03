@@ -16,8 +16,8 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🔓 Reverse Shell con ATtiny85</h3>
-      <p><em>Reverse shell implementado en hardware Digispark</em></p>
+      <h3>Reverse Shell con ATtiny85</h3>
+      <p><em>Reverse shell mediante la simulacion de un teclado</em></p>
       <br>
       <a href="https://maikelz-haks.github.io/Hoaxshell_Digispark_Attiny85/" target="_blank">
         <img src="https://img.shields.io/badge/VER%20PROYECTO-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/Security-Pentesting-FF6B6B?style=flat-square&labelColor=1a1a1a"/>
     </td>
     <td align="center" width="50%">
-      <h3>🎯 Hacking Labs</h3>
+      <h3>Hacking Labs</h3>
       <p><em>Write-ups y soluciones de máquinas de CTF</em></p>
       <br>
       <a href="https://github.com/Maikelz-haks/Hacking-Labs" target="_blank">
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🛡️ Implementación SAST</h3>
+      <h3>Implementación SAST</h3>
       <p><em>Análisis estático de seguridad en código fuente</em></p>
       <br>
       <a href="https://github.com/Maikelz-haks/Sast-Implementation" target="_blank">
